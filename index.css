@@ -1058,7 +1058,7 @@ background-color:rgba(190, 190, 190, 0.3) ;
     }
     .container{
         width: 18%;
-        height: 100%;
+        height: 120%;
         display: flex;
         flex-direction: column-reverse;
         
